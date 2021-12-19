@@ -3,7 +3,6 @@ package com.example.rest.entity;
 import lombok.*;
 
 import javax.persistence.*;
-import java.time.LocalDateTime;
 import java.util.Objects;
 
 /**
